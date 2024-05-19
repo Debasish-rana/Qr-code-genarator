@@ -20,7 +20,11 @@ body{
         border-radius: 20px;
 }
 h1{
-  border-bottom: 2px solid black;
+  background-color: rgba(62, 135, 231, 0.898);
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+
  
 }
 input{
@@ -71,6 +75,6 @@ button{
   }
   .container{
     width: 350px;
-    
+    margin-top: 220px;
   }
 }
